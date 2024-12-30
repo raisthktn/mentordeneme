@@ -1,1 +1,2 @@
 "# mentordeneme" 
+"goit seni cok seviyorum!" 
